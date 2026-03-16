@@ -10,20 +10,20 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
 
 ✨ Features
 - Precise calculation of Poisson's ratio with full χ ∈ [0, 2π] sweep 
-Adaptive extremum search using numerical optimization 
-Numerically stable orthogonal basis via QR decomposition 
-Vectorized operations with np.einsum for computational efficiency 
-Crystal symmetry exploitation (cubic, hexagonal, tetragonal, orthorhombic, etc.) 
-Interactive 3D visualizations of directional properties 
-Comprehensive text reports
+- Adaptive extremum search using numerical optimization 
+- Numerically stable orthogonal basis via QR decomposition 
+- Vectorized operations with np.einsum for computational efficiency 
+- Crystal symmetry exploitation (cubic, hexagonal, tetragonal, orthorhombic, etc.) 
+- Interactive 3D visualizations of directional properties 
+- Comprehensive text reports
 
 📊 Calculated Properties
 
-Averages (Voigt-Reuss-Hill)
-    Bulk modulus (B)
-    Shear modulus (G)
-    Young's modulus (E)
-    Poisson's ratio (ν)
+1. Averages (Voigt-Reuss-Hill)
+    - Bulk modulus (B)
+    - Shear modulus (G)
+    - Young's modulus (E)
+    - Poisson's ratio (ν)
 Anisotropy Indices
     Universal index Aᵤ
     Compressibility anisotropy
