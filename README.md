@@ -53,8 +53,9 @@ git clone https://github.com/your-username/elastpy.git
 
 cd elastpy
 
+
 # Install dependencies
 pip install numpy scipy matplotlib
 
 # Run
-python3 __main__.py
+python3 main.py
