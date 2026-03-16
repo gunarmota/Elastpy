@@ -19,6 +19,7 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
     Comprehensive text reports
 
 📊 Calculated Properties
+
 Averages (Voigt-Reuss-Hill)
     Bulk modulus (B)
     Shear modulus (G)
@@ -49,6 +50,7 @@ Requirements
 
 # Clone the repository
 git clone https://github.com/your-username/elastpy.git
+
 cd elastpy
 
 # Install dependencies
