@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/ElastPy_logo.png" width="300" />
+  <img src="img/ElastPy_logo.png" width="50%" />
 </p>
 
 ElastPy - Elasticity Analyzer Tool
