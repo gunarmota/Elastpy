@@ -1,4 +1,5 @@
-!(img/ElastPy_logo.png)
+![](img/ElastPy_logo.png)
+
 ElastPy - Elasticity Analyzer Tool
 
 https://img.shields.io/badge/python-3.7%252B-blue
