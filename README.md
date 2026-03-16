@@ -9,13 +9,13 @@ https://img.shields.io/badge/version-1.0.26-orange
 ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 3D materials, based on the methodology of Gaillac et al. (J. Phys.: Condens. Matter 28 (2016) 275201). The program calculates and visualizes elastic properties from the material's stiffness matrix Cij (6x6).
 
 ✨ Features
-- Precise calculation of Poisson's ratio with full χ ∈ [0, 2π] sweep 
-- Adaptive extremum search using numerical optimization 
-- Numerically stable orthogonal basis via QR decomposition 
-- Vectorized operations with np.einsum for computational efficiency 
-- Crystal symmetry exploitation (cubic, hexagonal, tetragonal, orthorhombic, etc.) 
-- Interactive 3D visualizations of directional properties 
-- Comprehensive text reports
+    - Precise calculation of Poisson's ratio with full χ ∈ [0, 2π] sweep 
+    - Adaptive extremum search using numerical optimization 
+    - Numerically stable orthogonal basis via QR decomposition 
+    - Vectorized operations with np.einsum for computational efficiency 
+    - Crystal symmetry exploitation (cubic, hexagonal, tetragonal, orthorhombic, etc.) 
+    - Interactive 3D visualizations of directional properties 
+    - Comprehensive text reports
 
 📊 Calculated Properties
 
@@ -39,12 +39,14 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
     - Shear wave velocity (vₛ)
     - Mean wave velocity (vₘ)
     - vₚ/vₛ ratio
+
 🚀 Installation
+
 Requirements
-    Python 3.7 or higher
-    NumPy
-    SciPy
-    Matplotlib
+    - Python 3.7 or higher
+    - NumPy
+    - SciPy
+    - Matplotlib
 
 # Clone the repository
 git clone https://github.com/your-username/elastpy.git
