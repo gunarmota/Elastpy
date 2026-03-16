@@ -24,22 +24,21 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
     - Shear modulus (G)
     - Young's modulus (E)
     - Poisson's ratio (ν)
-Anisotropy Indices
-    Universal index Aᵤ
-    Compressibility anisotropy
-    Zener anisotropy
-    Chung anisotropy
-Directional Extreme Values
-    Maximum and minimum Young's modulus
-    Maximum and minimum shear modulus (over χ)
-    Maximum and minimum Poisson's ratio (over χ)
-    Linear compressibility (positive/negative)
-Acoustic Properties
-    Longitudinal wave velocity (vₚ)
-    Shear wave velocity (vₛ)
-    Mean wave velocity (vₘ)
-    vₚ/vₛ ratio
-    Debye temperature (estimated)
+2. Anisotropy Indices
+    - Universal index Aᵤ
+    - Compressibility anisotropy
+    - Zener anisotropy
+    - Chung anisotropy
+3. Directional Extreme Values
+    - Maximum and minimum Young's modulus
+    - Maximum and minimum shear modulus (over χ)
+    - Maximum and minimum Poisson's ratio (over χ)
+    - Linear compressibility (positive/negative)
+4. Acoustic Properties
+    - Longitudinal wave velocity (vₚ)
+    - Shear wave velocity (vₛ)
+    - Mean wave velocity (vₘ)
+    - vₚ/vₛ ratio
 🚀 Installation
 Requirements
     Python 3.7 or higher
