@@ -42,8 +42,8 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
 
 # Installation
 
- Requirements
-     - Python 3.7 or higher
+ 1. Requirements
+    - Python 3.7 or higher
     - NumPy
     - SciPy
     - Matplotlib
