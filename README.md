@@ -53,7 +53,7 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
     - Matplotlib
 
 # Clone the repository
-git clone https://github.com/your-username/elastpy.git
+git clone https://github.com/gunarmota/Elastpy
 
 cd elastpy
 
