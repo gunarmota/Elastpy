@@ -1,4 +1,6 @@
-![](img/ElastPy_logo.png)
+<p align="center">
+  <img src="img/ElastPy_logo.png" width="300" />
+</p>
 
 ElastPy - Elasticity Analyzer Tool
 
