@@ -40,7 +40,7 @@ ElastPy is a comprehensive tool for analyzing anisotropic elastic properties of 
     - Mean wave velocity (vₘ)
     - vₚ/vₛ ratio
 
-🚀 Installation
+# Installation
 
  Requirements
      - Python 3.7 or higher
