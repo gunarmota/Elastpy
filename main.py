@@ -107,7 +107,7 @@ def main():
             print("12. Return to main menu")
             print("-"*50)
             
-            viz_choice = input("Escolha uma opção: ").strip()
+            viz_choice = input("Choose an option: ").strip()
             
             if viz_choice == '1':
                 plotter.plot_stiffness_matrix()
